@@ -1,4 +1,4 @@
-# Client-Side Routed Marketing Landing Experience – JavaScript (ES Modules), HTML5, CSS3, History API, Intersection Observer Fundamental Project 1
+# Client-Side Routed Marketing Landing Experience – JavaScript (ES6), HTML5, CSS3, History API, Intersection Observer Fundamental Project 1 (Framework-free SPA)
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![HTML5](https://img.shields.io/badge/HTML5-Semantic-E34F26?logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
@@ -11,7 +11,17 @@ A **production-style learning project**: a responsive marketing-style site calle
 
 - **Live Demo:** [https://next-tech-ui.vercel.app/](https://next-tech-ui.vercel.app/)
 
----
+![Image 1](https://github.com/user-attachments/assets/05e064fe-f1cd-405e-ba1c-a9d93375b0b7)
+![Image 2](https://github.com/user-attachments/assets/497e3a8e-e026-4417-b0c9-290fcc44a696)
+![Image 3](https://github.com/user-attachments/assets/93d897e0-a74a-4923-9c7c-6f4ed925d919)
+![Image 4](https://github.com/user-attachments/assets/12a48514-1529-4099-b549-e8915ca0a13f)
+![Image 5](https://github.com/user-attachments/assets/0ca7d369-1a21-414e-858d-3c96928982d3)
+![Image 6](https://github.com/user-attachments/assets/ce8d5f21-7083-4b1f-ab5b-4577403072c0)
+![Image 7](https://github.com/user-attachments/assets/9bc88cc8-31ae-4843-bb9b-e4f453c0131a)
+![Image 8](https://github.com/user-attachments/assets/176d3827-277c-4841-b5df-f85dba55abe0)
+![Image 9](https://github.com/user-attachments/assets/4848ef78-5236-4869-89ef-208c0d31942e)
+![Image 10](https://github.com/user-attachments/assets/aae171c1-6067-44a2-9694-1e93219b025f)
+![Image 11](https://github.com/user-attachments/assets/ffcab0d2-d2b2-4ecf-89aa-3e83d6be592b)
 
 ## Table of contents
 
@@ -174,7 +184,7 @@ If you extend this project with a real API later, you would typically add a sepa
 
 ## Project structure
 
-```
+```bash
 tech-ui/
 ├── index.html              # App shell: nav, #app outlet, footer, module entry
 ├── styles.css              # Global styles, layout, components, motion
