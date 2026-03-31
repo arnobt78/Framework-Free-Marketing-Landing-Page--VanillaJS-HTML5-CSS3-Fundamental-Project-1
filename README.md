@@ -1,4 +1,4 @@
-# Client-Side Routed Marketing Landing Experience – JavaScript (ES6), HTML5, CSS3, History API, Intersection Observer Fundamental Project 1 (Framework-free SPA)
+# Client-Side Routed Marketing Landing Experience – JavaScript (Vanilla), HTML5, CSS3, History API, Intersection Observer Fundamental Project 1 (Framework-free SPA)
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![HTML5](https://img.shields.io/badge/HTML5-Semantic-E34F26?logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
